@@ -106,25 +106,28 @@ const numericArray = [
     es. [f, b, e] --> [6, 2, 5]
 */
 const charactersArray = ['g', 'n', 'u', 'z', 'd']
-const caratteri = []
+let caratteri = []
 for (let i = 0; i < charactersArray.length; index++) {
-  charactersArray[i]
-
-  switch (charactersArray ) {
+switch (charactersArray ) {
     case 'g':
-      caratteri.push(0)
+      caratteri = 7;
+      caratteri.push(caratteri)
       break
     case 'n':
-      caratteri.push(1)
+      caratteri = 12;
+      caratteri.push(caratteri)
       break
     case 'u':
-      caratteri.push(2)
+      caratteri = 20;
+      caratteri.push(caratteri)
       break
     case 'z':
-      caratteri.push(3)
+      caratteri = 25;
+      caratteri.push(caratteri)
       break
     case 'd':
-      caratteri.push(4)
+      caratteri = 4;
+      caratteri.push(caratteri)
       break
 
     default: caratteri.push(NaN)
