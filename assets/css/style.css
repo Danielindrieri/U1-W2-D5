@@ -1,0 +1,131 @@
+/* Your styles here */
+body {
+  font-family: Arial, sans-serif;
+}
+header {
+  background-color: #222f3f;
+  height: 10%;
+}
+header img {
+  width: 10%;
+  padding-left: 1.3em;
+  padding-top: 0.4em;
+}
+header section , #fine {
+  background-color: #364759;
+  font-size: 0.7em;
+  height: 1rem;
+  padding-top: 0.6em;
+  padding-left: 1em;
+}
+section a {
+  color: white;
+  padding-left: 0.1em;
+  margin-left: 1em;
+}
+#uno {
+  text-align: center;
+  background-color: #f56600;
+  margin-top: 2em;
+  font-size: 0.7em;
+  height: 1rem;
+  padding-top: 0.6em;
+  margin-bottom: 2em;
+}
+#uno h3 {
+  color: white;
+}
+main {
+  padding-left: 1em;
+}
+main section {
+  height: 6em;
+  text-align: center;
+  background-image: url(/assets/images/bg-image.png);
+  background-position: center;
+  padding-top: 2em;
+}
+main section h2,
+p {
+  padding: 1em;
+  text-align: center;
+  color: white;
+}
+main p {
+  padding-top: 0;
+  font-size: 0.7em;
+}
+h2 {
+  font-size: 1.1em;
+}
+#immagini {
+    
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin-top: 1em;
+}
+#immagini img {
+  display: inline-block;
+  width: 20%;
+  height: 250px;
+  margin-right: 2em;
+  border-radius: 1em;
+  box-shadow: 1px 1px 1px 0px rgba(0, 0, 0, 0.78);
+}
+h4 {
+  font-size: 0.8em;
+  margin-left: 2rem;
+  width: 10em;
+  padding-top:0.6em;
+  padding-bottom: 1em;
+}
+#para {
+  font-size: 0.5em;
+  text-align: start;
+  color: #12626e;
+  padding-bottom: 1em;
+}
+#foto img{
+    width: 90%;
+    margin-left: 2.6rem;
+    margin-top: 2em;
+  }
+ h5 {
+    font-size: 0.7em;
+text-align: center; 
+padding-top:0.6em;
+ }
+ #fotografic  img {
+    width: 90%;
+    margin-left: 2.6rem;
+    margin-top: 2em;
+ }
+ span {
+    text-align: center;
+    margin-left: 1em;
+    display: inline-block;
+    font-size: 0.6em; 
+    padding-top:0.6em;
+    padding-bottom: 1em;
+
+ }
+ #spam{
+    text-align: center;
+ }
+ footer div {
+    color: white;
+    text-align: center;
+ }
+ footer {
+    background-color: #222f3f; 
+ }
+ footer section {
+    text-align: center;
+    padding-top: 1em;
+ }
+  footer img {
+    width: 10%;
+    padding-left: 1.3em;
+    padding-top: 0.4em;
+  }
